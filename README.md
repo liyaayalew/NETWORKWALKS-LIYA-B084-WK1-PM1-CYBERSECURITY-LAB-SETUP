@@ -4,7 +4,7 @@ Name: Liya Mekbib
 
 Step 1: Create NAT Network
 Created a NAT Network with subnet 10.0.0.0/24.
-<img width="976" height="647" alt="Screenshot 2026-10-29 224838" src="https://github.com/user-attachments/assets/56ed3094-657b-4f1a-a04c-0fb3a187ff8d" />
+<img width="1920" height="1020" alt="Screenshot 2026-10-29 173941" src="https://github.com/user-attachments/assets/5e15f19e-a275-46c8-abce-144339ebfaa1" />
 
 Step 2: Import Kali Linux
 Imported Kali Linux 2026.3 into VirtualBox.
